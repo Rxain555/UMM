@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMM", "UMM\UMM.csproj", "{FD388B56-D5CF-44CE-A220-DABC5757523B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD388B56-D5CF-44CE-A220-DABC5757523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD388B56-D5CF-44CE-A220-DABC5757523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD388B56-D5CF-44CE-A220-DABC5757523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD388B56-D5CF-44CE-A220-DABC5757523B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A719F400-4F7E-4F47-BEC0-1668A7845BDC}
+	EndGlobalSection
+EndGlobal
